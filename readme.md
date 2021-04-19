@@ -20,7 +20,7 @@
 
 ### 🏠 [Homepage](http://h5.dooring.cn)
 
-### ✨ [Demo](http://h5.dooring.cn/h5_plus/editor?tid=123456)
+### ✨ [Demo](http://h5.dooring.cn/h5_plus)
 
 ### 📦 doc(文档) [H5-Dooring Document](http://h5.dooring.cn/doc)
 
@@ -28,6 +28,8 @@
 
 <!-- <img src="http://io.nainor.com/uploads/face_17512320c6d.png" alt="H5可视化编辑器" /> -->
 ![](http://h5.dooring.cn/uploads/dooring-sdk_1763cbe7028.png)
+
+相关产品: [V6.Dooring | 大屏可视化编辑器](https://github.com/MrXujiang/v6.dooring.public)
 
 ## Author
 
@@ -55,7 +57,7 @@ Give a ⭐️ if this project helped you!
 ![](http://h5.dooring.cn/uploads/sdk_1763cc11bd5.png)
 
 
-### 1. 如何引用用js-sdk | How to use js-sdk
+### 1. 如何引用js-sdk | How to use js-sdk
 我们可以使用两种方式来使用我们的js-sdk, 第一种是在项目脚本中引入如下script标签, 如下:
 ``` js
 <script src="http://h5.dooring.cn/dooring-sdk.js"></script>
